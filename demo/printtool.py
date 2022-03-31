@@ -82,6 +82,6 @@ countLable = Label(root,textvariable = count,fg='blue').pack()
 Button(root,text="start",command=startPritn).pack()
 
 Label(root,text="author:zmy").pack()
-Label(root,text="wechat:y551592").pack()
+Label(root,text="wechat:zmycloud").pack()
 
 root.mainloop()
